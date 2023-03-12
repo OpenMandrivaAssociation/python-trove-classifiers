@@ -1,7 +1,7 @@
 Summary:	Canonical source for classifiers on PyPI (pypi.org)
 Name:		python-trove-classifiers
 Version:	2023.3.9
-Release:	1
+Release:	2
 License:	Apache-2.0
 Group:		Development/Python
 URL:		https://pypi.org/project/trove-classifiers/
@@ -10,7 +10,7 @@ BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(wheel)
-
+BuildRequires:	python%{pyver}dist(calver)
 BuildArch:	noarch
 
 %description
