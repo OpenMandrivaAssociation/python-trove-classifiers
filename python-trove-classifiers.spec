@@ -1,7 +1,7 @@
 Summary:	Canonical source for classifiers on PyPI (pypi.org)
 Name:		python-trove-classifiers
 Version:	2025.12.1.14
-Release:	1
+Release:	2
 License:	Apache-2.0
 Group:		Development/Python
 URL:		https://pypi.org/project/trove-classifiers/
